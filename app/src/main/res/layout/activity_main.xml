@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:enabled="false"
         android:layout_marginTop="12dp"
-        android:text="Condividi sulla LAN" 
+        android:text="Condividi sulla LAN"  />
         <Button
 android:id="@+id/btn_zip"
         android:layout_width="match_parent"
